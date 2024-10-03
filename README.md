@@ -31,7 +31,9 @@ Performance was evaluated using accuracy score, Jaccard index, and F1 score, wit
 Key Skills Demonstrated:
 
 Using Supervised learning algorithms
+
 Data preprocessing and feature selection
+
 Model evaluation and performance metrics
 
 
