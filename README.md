@@ -1,1 +1,56 @@
 # MyProjects
+# Data Science Portfolio
+This repository contains my portfolio of data science projects completed for academic, self-learning, and hobby purposes. These projects are presented as Jupyter notebooks and demonstrate my skills in data analysis, machine learning, and visualization.
+
+# Contents
+
+Machine Learning: Predicting Rainfall Tomorrow project with four supervised learning models.
+
+Data Analysis: Starbucks Case Study Analysis focusing on customer segmentation and targeted offers.
+
+
+# 1. PREDICTING RAINFALL TOMORROW
+
+*Type: Machine Learning Course Final Project*
+
+*Tools: Python, Pandas, Scikit-learn*
+
+Project Description:
+This project aims to predict whether it will rain tomorrow based on daily weather metrics from 2008 to 2017. The dataset includes features such as temperature, wind speed, humidity, pressure, and rainfall today. I employed four supervised machine learning algorithms to predict the dependent variable, "Rain Tomorrow":
+
+K-Nearest Neighbors (KNN)
+
+Decision Trees
+
+Logistic Regression
+
+Support Vector Machine (SVM)
+
+Performance was evaluated using accuracy score, Jaccard index, and F1 score, with SVM showing the best results.
+
+Key Skills Demonstrated:
+
+Using Supervised learning algorithms
+Data preprocessing and feature selection
+Model evaluation and performance metrics
+
+
+
+
+# 2. STARBUCKS CASE STUDY ANALYSIS
+
+*Type: Case Study*
+
+*Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn*
+
+Project Description:
+In this case study, I analyzed customer data from a Starbucks promotional campaign to understand how different customer segments responded to various offers. The goal was to boost revenue, increase customer loyalty, and enhance brand awareness. I used data wrangling and exploratory analysis, followed by customer segmentation using K-means clustering.
+
+Key Skills Demonstrated:
+
+Customer segmentation
+
+Data wrangling and exploratory data analysis (EDA)
+
+Developing strategies to target offers to customer segments
+
