@@ -18,13 +18,7 @@ Data Analysis: Starbucks Case Study Analysis focusing on customer segmentation a
 Project Description:
 This project aims to predict whether it will rain tomorrow based on daily weather metrics from 2008 to 2017. The dataset includes features such as temperature, wind speed, humidity, pressure, and rainfall today. I employed four supervised machine learning algorithms to predict the dependent variable, "Rain Tomorrow":
 
-K-Nearest Neighbors (KNN)
-
-Decision Trees
-
-Logistic Regression
-
-Support Vector Machine (SVM)
+K-Nearest Neighbors (KNN), Decision Trees, Logistic Regression, Support Vector Machine (SVM)
 
 Performance was evaluated using accuracy score, Jaccard index, and F1 score, with SVM showing the best results.
 
