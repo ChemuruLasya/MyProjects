@@ -50,3 +50,20 @@ Data wrangling and exploratory data analysis (EDA)
 
 Developing strategies to target offers to customer segments
 
+
+
+# 3. DATA VISUALIZATIONS 
+
+*Type: Data Analysis using visuals*
+
+*Tools: Tableau, PowerBI, MSExcel*
+
+Project Description: 
+Visulizing Walmart Sales and Amazon Sales using Tableau and PowerBI for easily deriving insights by using Interactie Dashboards created through above Viz tools.
+
+Key Skills Demonstrated:
+
+Creating Interactive Dashboards
+
+Deriving useful insights and thiniking of good recomendations that can improve sales further.
+
