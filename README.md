@@ -33,7 +33,7 @@ Model evaluation and performance metrics
 *Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn*
 
 Project Description:
-In this case study, I analyzed customer data from a Starbucks promotional campaign to understand how different customer segments responded to various offers. The goal was to boost revenue, increase customer loyalty, and enhance brand awareness. I used data wrangling and exploratory analysis, followed by customer segmentation using K-means clustering.
+In this case study, I analyzed customer data from a Starbucks promotional campaign to understand how different customer segments responded to various offers. The goal was to boost revenue, increase customer loyalty, and enhance brand awareness. I performed data wrangling and exploratory analysis, followed by customer segmentation using K-means clustering.
 
 Key Skills Demonstrated:
 Customer segmentation
@@ -53,7 +53,7 @@ Visulizing Walmart Sales and Amazon Sales using Tableau and PowerBI for easily d
 
 Key Skills Demonstrated:
 Creating Interactive Dashboards
-Deriving useful insights and thiniking of good recomendations that can improve sales further.
+Deriving useful insights and good recomendations that can improve sales further.
 
 ### 4.ANALYSIS ON CREDIT DATA USING SQL 
 
