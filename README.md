@@ -58,6 +58,7 @@ Deriving useful insights and thiniking of good recomendations that can improve s
 ### 4.ANALYSIS ON CREDIT DATA USING SQL 
 
 *Type: Data Analysis with SQL*
+
 *Tools:SQL, Excel*
 
 Project Description:
