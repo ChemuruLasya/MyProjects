@@ -2,14 +2,14 @@
 # Data Science Portfolio
 This repository contains my portfolio of data science projects completed for academic, self-learning, and hobby purposes. These projects are presented as Jupyter notebooks and demonstrate my skills in data analysis, machine learning, and visualization.
 
-# Contents
+## Contents
 
 Machine Learning: Predicting Rainfall Tomorrow project with four supervised learning models.
 
 Data Analysis: Starbucks Case Study Analysis focusing on customer segmentation and targeted offers.
 
 
-## 1. PREDICTING RAINFALL TOMORROW
+### 1. PREDICTING RAINFALL TOMORROW
 
 *Type: Machine Learning Course Final Project*
 
@@ -29,7 +29,7 @@ Model evaluation and performance metrics
 
 
 
-## 2. STARBUCKS CASE STUDY ANALYSIS
+### 2. STARBUCKS CASE STUDY ANALYSIS
 
 *Type: Case Study*
 
@@ -48,7 +48,7 @@ Developing strategies to target offers to customer segments
 
 
 
-## 3. DATA VISUALIZATIONS 
+### 3. DATA VISUALIZATIONS 
 
 *Type: Data Analysis using visuals*
 
@@ -63,7 +63,7 @@ Creating Interactive Dashboards
 
 Deriving useful insights and thiniking of good recomendations that can improve sales further.
 
-## 4.ANALYSIS ON CREDIT DATA USING SQL 
+### 4.ANALYSIS ON CREDIT DATA USING SQL 
 
 *Type: Data Analysis with SQL*
 *Tools:SQL, Excel*
