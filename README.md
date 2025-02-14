@@ -1,6 +1,6 @@
 # Chemuru Lasya-Data Analyst Portfolio
 
-## 📌 About
+## About
 
 Hi, I’m Lasya! I have an analytical background in Mechanics and am currently completing the IBM Data Analyst Professional Certification on Coursera while awaiting onboarding at TCS. My passion lies in Data Analytics and Machine Learning, where I enjoy transforming complex datasets into meaningful insights that drive business decisions.
 
@@ -13,6 +13,6 @@ This repository serves as a showcase of my skills, projects, and progress in Dat
 
 ## 📖 Table of Contents
 
--[About](#-about)
+-[About](#about)
 
 Portfolio Projects
