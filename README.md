@@ -15,7 +15,7 @@ This repository serves as a showcase of my skills, projects, and progress in Dat
 
 -[About](#about)
 
--[Portfolio Projects](#portfolio-Projects)
+-[Portfolio Projects](#portfolio-projects)
 
 -[Work Experience](#work-experience)
 
@@ -38,11 +38,11 @@ This repository serves as a showcase of my skills, projects, and progress in Dat
 
 Automated Web Data ETL Pipeline and NLP
 
--Tableau| SQL|Python
+-SQL| Tableau| Python
 
 Employee logs Time Series Data Analysis
 
--PowerBI| SQL
+-SQL | PowerBI
 
 Ad Hoc Analysis on Credit card Attirtion rate
 
@@ -51,16 +51,16 @@ Ad Hoc Analysis on Credit card Attirtion rate
 Bank loan Summary and Overview Dashboards
 
 ## Analyzing Starbucks Case Study
-In this project, I analyzed Starbucks customer data to understand how different customer segments respond to promotional offers and to develop data-driven strategies for improving offer effectiveness.
+In this project, I analyzed Starbucks customer data to understand how different customer segments respond to promotional offers and to develop data-driven strategies for improving offer effectiveness.  
 
-Project Overview
-🔹 Objective: Identify customer segments based on transactional behavior and offer response patterns to optimize marketing strategies.
-🔹 Data: Three datasets covering customer demographics, offer details, and offer-event interactions (e.g., offer viewed, completed transactions).
-🔹 Approach:
-Data Cleaning & Transformation to prepare the dataset for analysis.
-Exploratory Data Analysis (EDA) through Univariate & Bivariate analysis to uncover insights.
-Customer Segmentation using K-Means Clustering (Elbow & Silhouette methods determined K=5).
-Validation of clusters using Logistic Regression & K-Nearest Neighbors (KNN) (achieved 99.5% and 97.39% accuracy, respectively).
+Project Overview  
+🔹 Objective: Identify customer segments based on transactional behavior and offer response patterns to optimize marketing strategies.  
+🔹 Data: Three datasets covering customer demographics, offer details, and offer-event interactions (e.g., offer viewed, completed transactions).  
+🔹 Approach:  
+Data Cleaning & Transformation to prepare the dataset for analysis.  
+Exploratory Data Analysis (EDA) through Univariate & Bivariate analysis to uncover insights.  
+Customer Segmentation using K-Means Clustering (Elbow & Silhouette methods determined K=5).  
+Validation of clusters using Logistic Regression & K-Nearest Neighbors (KNN) (achieved 99.5% and 97.39% accuracy, respectively).  
 Business Strategy development based on cluster statistics such as frequency, offer completion rate, offer sensitivity, and average purchase value.
 
 
