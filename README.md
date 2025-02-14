@@ -1,2 +1,2 @@
-#Chemuru Lasya - Data Analyst Portfolio
+#ChemuruLasya-DataAnalystPortfolio
 
