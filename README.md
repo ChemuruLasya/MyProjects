@@ -2,10 +2,9 @@
 
 ## About
 
-Hi, I’m Lasya! I have an analytical background in Mechanics and am currently completing the IBM Data Analyst Professional Certification on Coursera while awaiting onboarding at TCS. My passion lies in Data Analytics and Machine Learning, where I enjoy transforming complex datasets into meaningful insights that drive business decisions.
+Hi, I’m Lasya! I have an analytical background in Mechanics and am currently completing the IBM Data Analyst Professional Certification on Coursera while awaiting onboarding at TCS. My passion lies in Data Analytics and Machine Learning, where I enjoy transforming complex datasets into meaningful insights that drive business decisions.I worked as an Intern at Synchrony Financial about 6 months and gained hands-on experience in BigData tools that includes PySpark, Hadoop, Apache Hive, BitBucket and Tableau.
 
-I have a strong foundation in SQL, Python, data analytics, and visualization tools.I’ve sharpened my skills through case study competitions, earning runner-up in Data Doyen (IMT Ghaziabad). My portfolio includes projects integrating analytics and ML, keeping pace with evolving technologies. My experience in pattern recognition, trend analysis, and visualization strengthens my ability to solve real-world business problems.
-
+I have a strong foundation in SQL, Python, data analytics, and visualization tools.I’ve sharpened my skills through case study competitions, earning runner-up in Data Doyen (IMT Ghaziabad). My portfolio includes projects integrating analytics and ML, for keeping pace with evolving technologies. My experience in trend analysis, and visualization strengthens my ability to solve real-world business problems.  
 I am always eager to learn new data analysis techniques and explore innovative tools. Whether working independently or in a team, I thrive on uncovering insights and leveraging data to solve complex challenges.
 
 This repository serves as a showcase of my skills, projects, and progress in Data Analytics and Data Science.
@@ -28,41 +27,46 @@ This repository serves as a showcase of my skills, projects, and progress in Dat
 -[Contact](#Contact)
 
 
-## Porfolio Projects
+## Portfolio Projects
 
--Python| ML
-
+-Python| ML  
 [Analyzing Starbucks Case Study](#analyzing-starbucks-case-study)
 
--Python| ETL| NLP
+-Python| ETL| NLP  
+[Automated Web Data ETL Pipeline and NLP](#automated-web-data-etl-pipeline-and-nlp)
 
-Automated Web Data ETL Pipeline and NLP
+-SQL| Tableau| Python  
+[Employee logs Time Series Data Analysis](#employee-logs-time-series-data-analysis)
 
--SQL| Tableau| Python
+-SQL | PowerBI  
+[Ad Hoc Analysis on Credit card Attirtion rate](#ad-hoc-analysis-on-credit-card-attrition-rate)
 
-Employee logs Time Series Data Analysis
-
--SQL | PowerBI
-
-Ad Hoc Analysis on Credit card Attirtion rate
-
--Excel
-
-Bank loan Summary and Overview Dashboards
+-Excel  
+[Bank loan Summary and Overview Dashboards](#bank-loan-summary-and-overview-dashboards)
 
 ## Analyzing Starbucks Case Study
-In this project, I analyzed Starbucks customer data to understand how different customer segments respond to promotional offers and to develop data-driven strategies for improving offer effectiveness.  
+This project analyzes Starbucks customer data to identify key customer segments based on their transactional behavior and response to promotional offers. By leveraging unsupervised and supervised machine learning models, the goal is to develop targeted marketing strategies that enhance offer effectiveness.  
+Approach & Techniques
+✔ Data Cleaning & Transformation – Ensured structured, high-quality data.
+✔ Exploratory Data Analysis (EDA) – Uncovered trends and insights.
+✔ K-Means Clustering – Segmented customers into 5 groups using Elbow & Silhouette methods.
+✔ Model Validation – Verified clusters using Logistic Regression & KNN (99.5% & 97.39% accuracy).
+✔ Business Insights & Strategy – Derived personalized marketing recommendations based on:Offer sensitivity, Purchase frequency, Completion rates, Average spending behavior
 
-Project Overview  
-🔹 Objective: Identify customer segments based on transactional behavior and offer response patterns to optimize marketing strategies.  
-🔹 Data: Three datasets covering customer demographics, offer details, and offer-event interactions (e.g., offer viewed, completed transactions).  
-🔹 Approach:  
-Data Cleaning & Transformation to prepare the dataset for analysis.  
-Exploratory Data Analysis (EDA) through Univariate & Bivariate analysis to uncover insights.  
-Customer Segmentation using K-Means Clustering (Elbow & Silhouette methods determined K=5).  
-Validation of clusters using Logistic Regression & K-Nearest Neighbors (KNN) (achieved 99.5% and 97.39% accuracy, respectively).  
-Business Strategy development based on cluster statistics such as frequency, offer completion rate, offer sensitivity, and average purchase value.
+Links:  
+Analysis Python Notebook: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb  
+PPT Presentation: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx  
+Data Sets: https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20Files
 
+
+## Automated Web Data ETL Pipeline and NLP
+This project builds a Web Data ETL Pipeline using Python, extracting news articles from the web using BeautifulSoup4. The extracted text is processed and analyzed using Natural Language Processing (NLP) techniques, including:Topic Modeling to identify key themes, Text Summarization for concise article overviews, Named Entity Recognition (NER) to extract important entities, and Sentiment Analysis to measure polarity and subjectivity.  
+To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in tone, subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.
+
+Link: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb
+
+##Employee Logs Time Series Data Analysis
+still updating my readme please vistit https://github.com/ChemuruLasya/Analysis-Results
 
 ## Work Experience
 ### Synchrony Financial
