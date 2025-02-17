@@ -54,9 +54,12 @@ Approach & Techniques
 ✔ Business Insights & Strategy – Derived personalized marketing recommendations based on:Offer sensitivity, Purchase frequency, Completion rates, Average spending behavior  
 
 Links:  
-Analysis Python Notebook: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb  
-PPT Presentation: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx  
-Data Sets: https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20Files
+Analysis Python Notebook: 
+<small>https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb </small>  
+PPT Presentation:
+<small>https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx </small> 
+Data Sets: 
+<small>https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20Files </small>
 
 
 ## Automated Web Data ETL Pipeline and NLP
