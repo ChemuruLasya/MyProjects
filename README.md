@@ -54,9 +54,9 @@ Approach & Techniques
 ✔ Business Insights & Strategy – Derived personalized marketing recommendations based on:Offer sensitivity, Purchase frequency, Completion rates, Average spending behavior  
 
 Links:  
-<sub>[Analysis Python Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb)</sub>     
-<sub>[PPT Presentation](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx)</sub>   
-<sub>[Data Sets](https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20Files)</sub> 
+[Analysis Python Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb)    
+[PPT Presentation](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx)  
+[Data Sets](https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20Files) 
 
 
 
@@ -65,15 +65,15 @@ This project builds a Web Data ETL Pipeline using Python, extracting news articl
 To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in tone, subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.  
 
 Link:  
-<sub>[Automated Web Data ETL Pipeline Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb)</sub>
+[Automated Web Data ETL Pipeline Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb)
 
 ## Employee Logs Time Series Data Analysis  
 The primary objective is to create realistic time-based data with python libraries suitable for performing time-series SQL queries, which will be used to build a Tableau dashboard for monitoring employee working hours.The generated dataset will mimic real-world login patterns, capturing variations in working hours, overtime, breaks, and irregularities. This data will allow organizations to analyze trends, identify potential inefficiencies, and ensure employees adhere to their expected schedules. By leveraging SQL for querying and Tableau for visualization, the dashboard will provide insightful metrics such as average working hours, late logins, early logouts, and overtime trends, enhancing workforce analytics and decision-making.  
 
 Links:  
-<sub>[Data Sets](https://github.com/ChemuruLasya/Data-Files/tree/main/Employee%20Time%20Logs)</sub>  
-<sub>[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Employee%20logs%20-%20Time%20Series%20Analysis/SQL_Timeseries_Analysis.sql)</sub>  
-<sub>[Go to Tableau Public](https://public.tableau.com/app/profile/c.lasya7339/viz/HRAnalyticsDashboard_17382543047560/Dashboard1)</sub>
+[Data Sets](https://github.com/ChemuruLasya/Data-Files/tree/main/Employee%20Time%20Logs)  
+[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Employee%20logs%20-%20Time%20Series%20Analysis/SQL_Timeseries_Analysis.sql)  
+[Go to Tableau Public](https://public.tableau.com/app/profile/c.lasya7339/viz/HRAnalyticsDashboard_17382543047560/Dashboard1)
 
 ## Ad Hoc Analysis on Credit card Attrition Rate  
 This project analyzes credit card customer attrition to uncover factors influencing churn and identify customers at risk. Using SQL for data extraction & transformation and Power BI for visualization, I generated key business insights to help financial institutions improve retention strategies.  
@@ -83,9 +83,9 @@ This project analyzes credit card customer attrition to uncover factors influenc
 ✔ Used SQL for ad hoc business insights and Power BI for dashboards.  
 
 Links:  
-<sub>[Data Files](https://github.com/ChemuruLasya/Data-Files/tree/main/Ad%20Hoc%20Analysis%20Data%20Files)</sub>  
-<sub>[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL_Ad_Hoc_Business_Insights.sql)</sub>  
-<sub>[PowerBI Dasboard Pdf](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL%20Query%20%20Visualization.pdf)</sub>
+[Data Files](https://github.com/ChemuruLasya/Data-Files/tree/main/Ad%20Hoc%20Analysis%20Data%20Files)  
+[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL_Ad_Hoc_Business_Insights.sql)  
+[PowerBI Dasboard Pdf](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL%20Query%20%20Visualization.pdf)
 
 ## Bank Loan Summary and Overview Dashboards
 This project features a Dynamic Interactive Excel Dashboard designed to analyze and visualize Bank Loan Data effectively. The dashboard provides key insights into loan applications, funding, repayment performance, and other critical financial metrics, enabling stakeholders to make data-driven decisions.  
@@ -99,8 +99,8 @@ I have built two key dashboards:
 ✔ Pivot Table Integration ensuring effective data processing and interactivity.
 
 Link:  
-<sub>[Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)</sub>  
-<sub>[Dashboard](https://github.com/ChemuruLasya/Analysis-Results/tree/main/Bank%20Loan%20Summary%20and%20Overview%20Dashboards)</sub>
+[Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)  
+[Dashboard](https://github.com/ChemuruLasya/Analysis-Results/tree/main/Bank%20Loan%20Summary%20and%20Overview%20Dashboards)
 
 
 ## Work Experience
