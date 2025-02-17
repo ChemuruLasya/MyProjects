@@ -71,8 +71,8 @@ Link:
 The primary objective is to create realistic time-based data with python libraries suitable for performing time-series SQL queries, which will be used to build a Tableau dashboard for monitoring employee working hours.The generated dataset will mimic real-world login patterns, capturing variations in working hours, overtime, breaks, and irregularities. This data will allow organizations to analyze trends, identify potential inefficiencies, and ensure employees adhere to their expected schedules. By leveraging SQL for querying and Tableau for visualization, the dashboard will provide insightful metrics such as average working hours, late logins, early logouts, and overtime trends, enhancing workforce analytics and decision-making.  
 
 Links:  
-<sub>[Data Sets](https://github.com/ChemuruLasya/Data-Files/tree/main/Employee%20Time%20Logs)</sub>
-<sub>[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Employee%20logs%20-%20Time%20Series%20Analysis/SQL_Timeseries_Analysis.sql)</sub>
+<sub>[Data Sets](https://github.com/ChemuruLasya/Data-Files/tree/main/Employee%20Time%20Logs)</sub>  
+<sub>[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Employee%20logs%20-%20Time%20Series%20Analysis/SQL_Timeseries_Analysis.sql)</sub>  
 <sub>[Go to Tableau Public](https://public.tableau.com/app/profile/c.lasya7339/viz/HRAnalyticsDashboard_17382543047560/Dashboard1)</sub>
 
 ## Ad Hoc Analysis on Credit card Attrition Rate  
@@ -82,9 +82,9 @@ This project analyzes credit card customer attrition to uncover factors influenc
 ✔ Predicted at-risk customers using transaction volume, inactivity, and engagement levels.  
 ✔ Used SQL for ad hoc business insights and Power BI for dashboards.  
 
-Links:
-<sub>[Data Files](https://github.com/ChemuruLasya/Data-Files/tree/main/Ad%20Hoc%20Analysis%20Data%20Files)</sub>
-<sub>[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL_Ad_Hoc_Business_Insights.sql)</sub>
+Links:  
+<sub>[Data Files](https://github.com/ChemuruLasya/Data-Files/tree/main/Ad%20Hoc%20Analysis%20Data%20Files)</sub>  
+<sub>[SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL_Ad_Hoc_Business_Insights.sql)</sub>  
 <sub>[PowerBI Dasboard Pdf](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL%20Query%20%20Visualization.pdf)</sub>
 
 ## Bank Loan Summary and Overview Dashboards
@@ -98,8 +98,8 @@ I have built two key dashboards:
 ✔ Interactive Slicers for koan grade and loan purpose filters  
 ✔ Pivot Table Integration ensuring effective data processing and interactivity.
 
-Link:
-<sub>[Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)</sub>
+Link:  
+<sub>[Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)</sub>  
 <sub>[Dashboard](https://github.com/ChemuruLasya/Analysis-Results/tree/main/Bank%20Loan%20Summary%20and%20Overview%20Dashboards)</sub>
 
 
@@ -120,17 +120,18 @@ Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Enginee
 
 ## Acheivements
 
-Runner-up DataDoyen Competetion by IMT Ghaziabad December, 2023
+[Runner-up DataDoyen Competetion by IMT Ghaziabad December, 2023](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/DataDoyen_RunnerUp%20.pdf)
 
-Gold Badge HackerRank in SQL and Python
+[SQL Advanced Certification by HackerRank](https://www.hackerrank.com/certificates/d42c1025f2bf)
 
 ## Certificates
 
-Data Analytics Essentials by IBM
+[Data Analytics Essentials by IBM](https://www.credly.com/badges/a75fb273-75c6-425d-8f05-b3db9617b44f/public_url)
 
-Agile Project Management by Google
+[Machine Learning with Python by IBM](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/Machine%20Learning%20with%20Python%20by%20IBM.pdf)
 
-Fundamentals of Business Analysis by Alison
+[Agile Project Management by Google](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/Agile%20Project%20Management%20by%20Google.pdf)
+
 
 ## Contact
 
