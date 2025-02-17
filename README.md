@@ -76,7 +76,7 @@ Links:
 <sub>[Go to Tableau Public](https://public.tableau.com/app/profile/c.lasya7339/viz/HRAnalyticsDashboard_17382543047560/Dashboard1)</sub>
 
 ## Ad Hoc Analysis on Credit card Attrition Rate  
-This project analyzes credit card customer attrition to uncover factors influencing churn and identify customers at risk. Using SQL for data extraction & transformation and Power BI for visualization, I generated key business insights to help financial institutions like American Express improve retention strategies.  
+This project analyzes credit card customer attrition to uncover factors influencing churn and identify customers at risk. Using SQL for data extraction & transformation and Power BI for visualization, I generated key business insights to help financial institutions improve retention strategies.  
 ✔ Analyzed customer attrition trends by age, income, product holdings, and inactivity.  
 ✔ Segmented customers to identify patterns between churned vs. existing users.  
 ✔ Predicted at-risk customers using transaction volume, inactivity, and engagement levels.  
@@ -88,20 +88,31 @@ Links:
 <sub>[PowerBI Dasboard Pdf](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL%20Query%20%20Visualization.pdf)</sub>
 
 ## Bank Loan Summary and Overview Dashboards
+This project features a Dynamic Interactive Excel Dashboard designed to analyze and visualize Bank Loan Data effectively. The dashboard provides key insights into loan applications, funding, repayment performance, and other critical financial metrics, enabling stakeholders to make data-driven decisions.  
+I have built two key dashboards:  
+1.Summary Dashboard – Provides an overview of key loan metrics, including Total Loan Applications, Funded Amount, Amount Received, etc. It also categorizes loans into Good Loans (fully paid & curent) and Bad Loans (charged off), displaying their respective percentages, funded amounts, and applications.  
+2.Overview Dashboard – Offers a detailed breakdown of loan applications by month, state, loan term, employment length, loan purpose, and homeownership status. This helps identify trends and patterns in loan distributions.  
+✔ Dynamic KPIs Tracking for Month to date and month on month growths.  
+✔ Comparative Analysis on Fully-paid, current and charged-off application using bar charts.  
+✔ Geographical & Trend Analysis on loan applications by state, purpose, home-ownership etc.  
+✔ Interactive Slicers for koan grade and loan purpose filters  
+✔ Pivot Table Integration ensuring effective data processing and interactivity.
 
-
-
+Link:
+<sub>[Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)</sub>
+<sub>[Dashboard](https://github.com/ChemuruLasya/Analysis-Results/tree/main/Bank%20Loan%20Summary%20and%20Overview%20Dashboards)</sub>
 
 
 ## Work Experience
-### Synchrony Financial
-Jan 2023 - Jun 2023 · 6 mosJan 2023 to Jun 2023 · 6 mos
-IndiaIndia
-• Worked on optimizing the Credit Loss model written in Python by removing unwanted models, avoiding hard-coded parameters, and enhancing code flexibility and maintainability. 
-• Gained hands-on training in customizing Tableau dashboards for quick data insights and ETL processes for data extraction. Worked with SQL by creating duplicate datasets for thorough testing. 
+### Synchrony Financial  
+Jan 2023 - Jun 2023  
+India  
+• Worked on optimizing the Credit Loss model written in Python by removing unwanted models, avoiding hard-coded parameters, and enhancing code flexibility and maintainability.   
+• Gained hands-on training in customizing Tableau dashboards for quick data insights and ETL processes for data extraction. Worked with SQL by creating duplicate datasets for thorough testing.   
 • Converted modified notebooks into Python scripts, integrated them with Bitbucket, and developed a shell script to automate Spark configurations to run Python scripts and handle input errors. 
  
 Accomplishments: Reduced model execution time by 25%, transitioning the Credit Loss model to operational mode, which improved productivity and streamlined workflows.
+
 
 ## Education
 
