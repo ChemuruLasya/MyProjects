@@ -55,7 +55,7 @@ Approach & Techniques
 
 Links:  
 Analysis Python Notebook:   
-<small>(https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb)</small>     
+<sub>(https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb)</sub>     
 PPT Presentation:  
 https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx   
 Data Sets:  
