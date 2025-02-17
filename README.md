@@ -68,7 +68,7 @@ This project builds a Web Data ETL Pipeline using Python, extracting news articl
 To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in tone, subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.  
 
 Link:  
-<sub>https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb</sub>
+<sub>[Automated Web Data ETL Pipeline Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb)</sub>
 
 ## Employee Logs Time Series Data Analysis
 
