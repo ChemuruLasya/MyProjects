@@ -30,7 +30,7 @@ This repository serves as a showcase of my skills, projects, and progress in Dat
 ## Portfolio Projects
 
 -Python| ML  
-[Analyzing Starbucks Case Study](#analyzing-starbucks-case-study)
+[Starbucks Case Study](#starbucks-case-study)
 
 -Python| ETL| NLP  
 [Automated Web Data ETL Pipeline and NLP](#automated-web-data-etl-pipeline-and-nlp)
@@ -44,14 +44,14 @@ This repository serves as a showcase of my skills, projects, and progress in Dat
 -Excel  
 [Bank loan Summary and Overview Dashboards](#bank-loan-summary-and-overview-dashboards)
 
-## Analyzing Starbucks Case Study
+## Starbucks Case Study
 This project analyzes Starbucks customer data to identify key customer segments based on their transactional behavior and response to promotional offers. By leveraging unsupervised and supervised machine learning models, the goal is to develop targeted marketing strategies that enhance offer effectiveness.  
-Approach & Techniques
-✔ Data Cleaning & Transformation – Ensured structured, high-quality data.
-✔ Exploratory Data Analysis (EDA) – Uncovered trends and insights.
-✔ K-Means Clustering – Segmented customers into 5 groups using Elbow & Silhouette methods.
-✔ Model Validation – Verified clusters using Logistic Regression & KNN (99.5% & 97.39% accuracy).
-✔ Business Insights & Strategy – Derived personalized marketing recommendations based on:Offer sensitivity, Purchase frequency, Completion rates, Average spending behavior
+Approach & Techniques  
+✔ Data Cleaning & Transformation – Ensured structured, high-quality data.  
+✔ Exploratory Data Analysis (EDA) – Uncovered trends and insights.  
+✔ Customer Segmentation – Segmented customers into 5 groups using K-means clustering, Elbow & Silhouette methods.  
+✔ Model Validation – Verified clusters using Logistic Regression & KNN (99.5% & 97.39% accuracy).  
+✔ Business Insights & Strategy – Derived personalized marketing recommendations based on:Offer sensitivity, Purchase frequency, Completion rates, Average spending behavior  
 
 Links:  
 Analysis Python Notebook: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb  
@@ -61,12 +61,12 @@ Data Sets: https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case
 
 ## Automated Web Data ETL Pipeline and NLP
 This project builds a Web Data ETL Pipeline using Python, extracting news articles from the web using BeautifulSoup4. The extracted text is processed and analyzed using Natural Language Processing (NLP) techniques, including:Topic Modeling to identify key themes, Text Summarization for concise article overviews, Named Entity Recognition (NER) to extract important entities, and Sentiment Analysis to measure polarity and subjectivity.  
-To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in tone, subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.
+To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in tone, subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.  
 
 Link: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb
 
-##Employee Logs Time Series Data Analysis
-still updating my readme please vistit https://github.com/ChemuruLasya/Analysis-Results
+## Employee Logs Time Series Data Analysis
+
 
 ## Work Experience
 ### Synchrony Financial
