@@ -55,11 +55,11 @@ Approach & Techniques
 
 Links:  
 Analysis Python Notebook:   
-<sub>(https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb)</sub>     
+<sub>https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb</sub>     
 PPT Presentation:  
-https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx   
+<sub>https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx</sub>   
 Data Sets:  
-https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20Files 
+<sub>https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20Files</sub> 
 
 
 
@@ -67,7 +67,8 @@ https://github.com/ChemuruLasya/Data-Files/tree/main/Starbucks%20Case%20Study%20
 This project builds a Web Data ETL Pipeline using Python, extracting news articles from the web using BeautifulSoup4. The extracted text is processed and analyzed using Natural Language Processing (NLP) techniques, including:Topic Modeling to identify key themes, Text Summarization for concise article overviews, Named Entity Recognition (NER) to extract important entities, and Sentiment Analysis to measure polarity and subjectivity.  
 To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in tone, subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.  
 
-Link: https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb
+Link:  
+<sub>https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb</sub>
 
 ## Employee Logs Time Series Data Analysis
 
