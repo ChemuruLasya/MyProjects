@@ -92,7 +92,7 @@ This project features a Dynamic Interactive Excel Dashboard designed to analyze 
 I have built two key dashboards:  
 1.Summary Dashboard – Provides an overview of key loan metrics, including Total Loan Applications, Funded Amount, Amount Received, etc. It also categorizes loans into Good Loans (fully paid & curent) and Bad Loans (charged off), displaying their respective percentages, funded amounts, and applications.  
 2.Overview Dashboard – Offers a detailed breakdown of loan applications by month, state, loan term, employment length, loan purpose, and homeownership status. This helps identify trends and patterns in loan distributions.  
-**SKills**: Dynamic KPIs Tracking, Comparative Analysis using bar charts and line charts, Using Interactive Slicers, and Pivot Tables.
+**Skills**: Dynamic KPIs Tracking, Comparative Analysis using bar charts and line charts, Using Interactive Slicers, and Pivot Tables.
 
 **Links:**   
 [Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)  
