@@ -113,7 +113,7 @@ India
 
 ## Education
 
-<img src="https://github.com/user-attachments/assets/1d7783f3-6fb1-405a-8bbd-56694d682373" alt="IIT Hyderabad Logo" width="50" height="50"> Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Engineering 2020-2024
+<img src="https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/IITH%20Logo.png" alt="IIT Hyderabad Logo" width="50" height="50"> Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Engineering 2020-2024
 
 ## Acheivements
 
