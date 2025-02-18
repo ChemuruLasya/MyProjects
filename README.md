@@ -91,8 +91,8 @@ This project analyzes credit card customer attrition to uncover factors influenc
 This project features a Dynamic Interactive Excel Dashboard designed to analyze and visualize Bank Loan Data effectively. The dashboard provides key insights into loan applications, funding, repayment performance, and other critical financial metrics, enabling stakeholders to make data-driven decisions.  
 I have built two key dashboards:  
 1.Summary Dashboard – Provides an overview of key loan metrics, including Total Loan Applications, Funded Amount, Amount Received, etc. It also categorizes loans into Good Loans (fully paid & curent) and Bad Loans (charged off), displaying their respective percentages, funded amounts, and applications.  
-2.Overview Dashboard – Offers a detailed breakdown of loan applications by month, state, loan term, employment length, loan purpose, and homeownership status. This helps identify trends and patterns in loan distributions. 
-**SKills**: Dynamic KPIs Tracking, Comparative Analysis using bar charts and line charts, Geographical & Trend Analysis on loan applications by state, purpose, home-ownership etc, Using Interactive Slicers for loan grade and loan purpose filters, Pivot Table Integration ensuring effective data processing and interactivity.
+2.Overview Dashboard – Offers a detailed breakdown of loan applications by month, state, loan term, employment length, loan purpose, and homeownership status. This helps identify trends and patterns in loan distributions.  
+**SKills**: Dynamic KPIs Tracking, Comparative Analysis using bar charts and line charts, Using Interactive Slicers, and Pivot Tables.
 
 **Links:**   
 [Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)  
