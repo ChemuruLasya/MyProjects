@@ -94,7 +94,7 @@ I have built two key dashboards:
 2.Overview Dashboard – Offers a detailed breakdown of loan applications by month, state, loan term, employment length, loan purpose, and homeownership status. This helps identify trends and patterns in loan distributions. 
 **SKills**: Dynamic KPIs Tracking, Comparative Analysis using bar charts and line charts, Geographical & Trend Analysis on loan applications by state, purpose, home-ownership etc, Using Interactive Slicers for loan grade and loan purpose filters, Pivot Table Integration ensuring effective data processing and interactivity.
 
-**Links:** 
+**Links:**   
 [Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)  
 [Dashboard](https://github.com/ChemuruLasya/Analysis-Results/tree/main/Bank%20Loan%20Summary%20and%20Overview%20Dashboards)
 
@@ -113,7 +113,7 @@ India
 
 ## Education
 
-![image](https://github.com/user-attachments/assets/1d7783f3-6fb1-405a-8bbd-56694d682373)
+<img src="https://github.com/user-attachments/assets/1d7783f3-6fb1-405a-8bbd-56694d682373" alt="IIT Hyderabad Logo" width="50" height="50">
 Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Engineering 2020-2024
 
 ## Acheivements
