@@ -70,7 +70,7 @@ Link:
 
 
 ## Employee Logs Time Series Data Analysis  
-The primary objective is to create realistic time-based data with python libraries suitable for performing time-series SQL queries, which will be used to build a Tableau dashboard for monitoring employee working hours.The generated dataset will mimic real-world login patterns, capturing variations in working hours, overtime, breaks, and irregularities. This dashboard will allow organizations to analyze trends, identify potential inefficiencies, and ensure employees adhere to their expected schedules by leveraging SQL for querying and Tableau for visualization, the dashboard will provide insightful metrics such as average working hours, late logins, early logouts, and overtime trends between whatever dates we choose.
+The primary objective is to create realistic time-based data with python libraries suitable for performing time-series SQL queries, which will be used to build a Tableau dashboard for monitoring employee working hours.The generated dataset will mimic real-world login patterns, capturing variations in working hours, overtime, breaks, and irregularities. This dashboard will allow organizations to analyze trends, identify potential inefficiencies, and ensure employees adhere to their expected schedules by leveraging SQL for querying and Tableau for visualization, the dashboard will provide insightful metrics such as average working hours, late logins, early logouts, and overtime trends between whatever dates we choose.  
 **Skills**: SQL,Tableau, Python
 
 Links:  
@@ -107,20 +107,21 @@ India
 • Gained hands-on training in customizing Tableau dashboards for quick data insights and ETL processes for data extraction. Worked with SQL by creating duplicate datasets for thorough testing.   
 • Converted modified notebooks into Python scripts, integrated them with Bitbucket, and developed a shell script to automate Spark configurations to run Python scripts and handle input errors. 
  
-**Accomplishments**: Reduced model execution time by 25%, transitioning the Credit Loss model to operational mode, which improved productivity and streamlined workflows.
+**Accomplishments**: Reduced model execution time by 25%, transitioning the Credit Loss model to operational mode, which improved productivity and streamlined workflows.  
 **Tools**:  Pyspark, Tableau, Pandas, SQL, Hadoop, Hive, Bitbucket, Shellscripting.
 
 
 ## Education
 
-<img src="https://github.com/user-attachments/assets/1d7783f3-6fb1-405a-8bbd-56694d682373" alt="IIT Hyderabad Logo" width="50" height="50">
-Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Engineering 2020-2024
+<img src="https://github.com/user-attachments/assets/1d7783f3-6fb1-405a-8bbd-56694d682373" alt="IIT Hyderabad Logo" width="50" height="50"> Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Engineering 2020-2024
 
 ## Acheivements
 
-[Runner-up DataDoyen Competetion by IMT Ghaziabad December, 2023](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/DataDoyen_RunnerUp%20.pdf)
+[Runner-up DataDoyen Competetion by IMT Ghaziabad December, 2023](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/DataDoyen_RunnerUp%20.pdf)  
+After successfully clearing the Data Analysis Quiz on Unstop, conducted by IMT Ghaziabad, I was selected among the top 20 participants for the next round. I was tasked with analyzing a Starbucks case study within a week and presenting my findings to a panel of judges.Using Python libraries and Machine Learning techniques, I conducted Exploratory Data Analysis (EDA) and Customer Segmentation to derive meaningful insights. I then presented my findings and analysis results,showcasing data-driven recommendations before the judges.
 
 [SQL Advanced Certification by HackerRank](https://www.hackerrank.com/certificates/d42c1025f2bf)
+Cleared Advanced SQL Exam in HackerRank.
 
 ## Certificates
 
