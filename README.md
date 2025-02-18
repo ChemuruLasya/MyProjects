@@ -52,6 +52,7 @@ Data Cleaning & Transformation ➝ Exploratory Data Analysis (EDA) ➝ Customer 
 Identified high-performing offers and the influencing factors behind them.Segmented customers into 5 groups using K-means clustering, Elbow & Silhouette methods.Verified clusters using Logistic Regression & KNN and achieved 99.5% & 97.39% accuracy, respectively.  
 **Skills**  
 Python, Pandas, Matplotlib, Seaborn, Machine Learning, Data Analysis, and Data Visualization.  
+
 **Links**  
 [Analysis Python Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb)    
 [PPT Presentation](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx)  
@@ -61,13 +62,16 @@ Python, Pandas, Matplotlib, Seaborn, Machine Learning, Data Analysis, and Data V
 
 ## Automated Web Data ETL Pipeline and NLP
 This project builds a Web Data ETL Pipeline using Python, extracting news articles from the web using BeautifulSoup4. The extracted text is processed and analyzed using Natural Language Processing (NLP) techniques, including:Topic Modeling to identify key themes, Text Summarization for concise article overviews, Named Entity Recognition (NER) to extract important entities, and Sentiment Analysis to measure polarity and subjectivity.  
-To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in tone, subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.  
+To demonstrate its real-world application, the project compares sentiment scores of BBC and CNN on the same topic. The results highlight variations in subjectivity, and bias between the two news sources, showcasing how automated NLP pipelines can be leveraged for media analysis.  
+**Skills**: Python, ETL, NLP
 
 Link:  
 [Automated Web Data ETL Pipeline Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Automated%20Web%20data%20ETL%20and%20NLP%20Pipeline/Automated%20Web%20Data%20ETL%20%26%20NLP%20Pipeline.ipynb)
 
+
 ## Employee Logs Time Series Data Analysis  
-The primary objective is to create realistic time-based data with python libraries suitable for performing time-series SQL queries, which will be used to build a Tableau dashboard for monitoring employee working hours.The generated dataset will mimic real-world login patterns, capturing variations in working hours, overtime, breaks, and irregularities. This data will allow organizations to analyze trends, identify potential inefficiencies, and ensure employees adhere to their expected schedules. By leveraging SQL for querying and Tableau for visualization, the dashboard will provide insightful metrics such as average working hours, late logins, early logouts, and overtime trends, enhancing workforce analytics and decision-making.  
+The primary objective is to create realistic time-based data with python libraries suitable for performing time-series SQL queries, which will be used to build a Tableau dashboard for monitoring employee working hours.The generated dataset will mimic real-world login patterns, capturing variations in working hours, overtime, breaks, and irregularities. This dashboard will allow organizations to analyze trends, identify potential inefficiencies, and ensure employees adhere to their expected schedules by leveraging SQL for querying and Tableau for visualization, the dashboard will provide insightful metrics such as average working hours, late logins, early logouts, and overtime trends between whatever dates we choose.
+**Skills**: SQL,Tableau, Python
 
 Links:  
 [Data Sets](https://github.com/ChemuruLasya/Data-Files/tree/main/Employee%20Time%20Logs)  
@@ -75,13 +79,10 @@ Links:
 [Go to Tableau Public](https://public.tableau.com/app/profile/c.lasya7339/viz/HRAnalyticsDashboard_17382543047560/Dashboard1)
 
 ## Ad Hoc Analysis on Credit card Attrition Rate  
-This project analyzes credit card customer attrition to uncover factors influencing churn and identify customers at risk. Using SQL for data extraction & transformation and Power BI for visualization, I generated key business insights to help financial institutions improve retention strategies.  
-✔ Analyzed customer attrition trends by age, income, product holdings, and inactivity.  
-✔ Segmented customers to identify patterns between churned vs. existing users.  
-✔ Predicted at-risk customers using transaction volume, inactivity, and engagement levels.  
-✔ Used SQL for ad hoc business insights and Power BI for dashboards.  
+This project analyzes credit card customer attrition to uncover factors influencing churn and identify customers at risk. Using SQL for data extraction & transformation and Power BI for visualization, I generated key business insights to help financial institutions improve retention strategies.Analyzed customer attrition trends by age, income, product holdings, and inactivity. Segmented customers to identify patterns between churned vs. existing users. Predicted at-risk customers using transaction volume, inactivity, and engagement levels.  
+**Skills**: SQL, PowerBI, Data Analytics
 
-Links:  
+**Links:**  
 [Data Files](https://github.com/ChemuruLasya/Data-Files/tree/main/Ad%20Hoc%20Analysis%20Data%20Files)  
 [SQL File](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL_Ad_Hoc_Business_Insights.sql)  
 [PowerBI Dasboard Pdf](https://github.com/ChemuruLasya/Analysis-Results/blob/main/AD%20HOC%20Report%20from%20Credit%20Card%20Data/SQL%20Query%20%20Visualization.pdf)
@@ -90,14 +91,10 @@ Links:
 This project features a Dynamic Interactive Excel Dashboard designed to analyze and visualize Bank Loan Data effectively. The dashboard provides key insights into loan applications, funding, repayment performance, and other critical financial metrics, enabling stakeholders to make data-driven decisions.  
 I have built two key dashboards:  
 1.Summary Dashboard – Provides an overview of key loan metrics, including Total Loan Applications, Funded Amount, Amount Received, etc. It also categorizes loans into Good Loans (fully paid & curent) and Bad Loans (charged off), displaying their respective percentages, funded amounts, and applications.  
-2.Overview Dashboard – Offers a detailed breakdown of loan applications by month, state, loan term, employment length, loan purpose, and homeownership status. This helps identify trends and patterns in loan distributions.  
-✔ Dynamic KPIs Tracking for Month to date and month on month growths.  
-✔ Comparative Analysis on Fully-paid, current and charged-off application using bar charts.  
-✔ Geographical & Trend Analysis on loan applications by state, purpose, home-ownership etc.  
-✔ Interactive Slicers for koan grade and loan purpose filters  
-✔ Pivot Table Integration ensuring effective data processing and interactivity.
+2.Overview Dashboard – Offers a detailed breakdown of loan applications by month, state, loan term, employment length, loan purpose, and homeownership status. This helps identify trends and patterns in loan distributions. 
+**SKills**: Dynamic KPIs Tracking, Comparative Analysis using bar charts and line charts, Geographical & Trend Analysis on loan applications by state, purpose, home-ownership etc, Using Interactive Slicers for loan grade and loan purpose filters, Pivot Table Integration ensuring effective data processing and interactivity.
 
-Link:  
+**Links:** 
 [Bank loan Data](https://github.com/ChemuruLasya/Data-Files/tree/main/Bank%20Loan%20Data)  
 [Dashboard](https://github.com/ChemuruLasya/Analysis-Results/tree/main/Bank%20Loan%20Summary%20and%20Overview%20Dashboards)
 
@@ -110,11 +107,13 @@ India
 • Gained hands-on training in customizing Tableau dashboards for quick data insights and ETL processes for data extraction. Worked with SQL by creating duplicate datasets for thorough testing.   
 • Converted modified notebooks into Python scripts, integrated them with Bitbucket, and developed a shell script to automate Spark configurations to run Python scripts and handle input errors. 
  
-Accomplishments: Reduced model execution time by 25%, transitioning the Credit Loss model to operational mode, which improved productivity and streamlined workflows.
+**Accomplishments**: Reduced model execution time by 25%, transitioning the Credit Loss model to operational mode, which improved productivity and streamlined workflows.
+**Tools**:  Pyspark, Tableau, Pandas, SQL, Hadoop, Hive, Bitbucket, Shellscripting.
 
 
 ## Education
 
+![image](https://github.com/user-attachments/assets/1d7783f3-6fb1-405a-8bbd-56694d682373)
 Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Engineering 2020-2024
 
 ## Acheivements
