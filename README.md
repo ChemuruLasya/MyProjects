@@ -46,12 +46,12 @@ This repository serves as a showcase of my skills, projects, and progress in Dat
 
 ## Starbucks Case Study
 **Objective:** This project analyzes Starbucks customer data during a campaign to identify key customer segments based on their transactional behavior and response to promotional offers by leveraging statistical analysis, unsupervised and supervised machine learning models. The goal is to develop targeted marketing strategies that enhance offer effectiveness and sales.  
-**Approach & Techniques**
-Data Cleaning & Transformation ➝ Exploratory Data Analysis (EDA) ➝ Customer Segmentation ➝ Validation ➝ Business Insights & Strategy 
-**Results**
-Identified high-performing offers and the influencing factors behind them.Segmented customers into 5 groups using K-means clustering, Elbow & Silhouette methods.Verified clusters using Logistic Regression & KNN and achieved 99.5% & 97.39% accuracy, respectively.
-**Skills**
-Python, Pandas, Matplotlib, Seaborn, Machine Learning, Data Analysis, and Data Visualization.
+**Approach & Techniques**  
+Data Cleaning & Transformation ➝ Exploratory Data Analysis (EDA) ➝ Customer Segmentation ➝ Validation ➝ Business Insights & Strategy   
+**Results**  
+Identified high-performing offers and the influencing factors behind them.Segmented customers into 5 groups using K-means clustering, Elbow & Silhouette methods.Verified clusters using Logistic Regression & KNN and achieved 99.5% & 97.39% accuracy, respectively.  
+**Skills**  
+Python, Pandas, Matplotlib, Seaborn, Machine Learning, Data Analysis, and Data Visualization.  
 **Links**  
 [Analysis Python Notebook](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/CaseStudy_Analysis.ipynb)    
 [PPT Presentation](https://github.com/ChemuruLasya/Analysis-Results/blob/main/Starbucks%20Case%20Study%20Analysis/DataDoyen_Ameya.pptx)  
