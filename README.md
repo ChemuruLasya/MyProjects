@@ -115,7 +115,7 @@ India
 <img src="https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/IITH%20Logo.png" alt="IIT Hyderabad Logo" width="50" height="50" style="vertical-align: middle; margin-right: 10px;">  
 Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Engineering 2020-2024
 
-## Acheivements
+## Achievements
 
 [Runner-up DataDoyen Competetion by IMT Ghaziabad December, 2023](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/DataDoyen_RunnerUp%20.pdf)  
 After successfully clearing the Data Analysis Quiz on Unstop, conducted by IMT Ghaziabad, I was selected among the top 20 participants for the next round. I was tasked with analyzing a Starbucks case study within a week and presenting my findings to a panel of judges.Using Python libraries and Machine Learning techniques, I conducted Exploratory Data Analysis (EDA) and Customer Segmentation to derive meaningful insights. I then presented my findings and analysis results,showcasing data-driven recommendations before the judges.
