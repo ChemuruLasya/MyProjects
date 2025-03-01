@@ -117,7 +117,7 @@ Indian Institute of Technology Hyderabad - Bachelor's degree, Mechanical Enginee
 
 ## Achievements
 
-[Runner-up DataDoyen Competetion by IMT Ghaziabad December, 2023](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/DataDoyen_RunnerUp%20.pdf)  
+[Runner-up Case Study Analysis Competetion](https://github.com/ChemuruLasya/Certifications-Achievements/blob/main/DataDoyen_RunnerUp%20.pdf)  
 After successfully clearing the Data Analysis Quiz on Unstop, conducted by IMT Ghaziabad, I was selected among the top 20 participants for the next round. I was tasked with analyzing a Starbucks case study within a week and presenting my findings to a panel of judges.Using Python libraries and Machine Learning techniques, I conducted Exploratory Data Analysis (EDA) and Customer Segmentation to derive meaningful insights. I then presented my findings and analysis results,showcasing data-driven recommendations before the judges.
 
 [SQL Advanced Certification by HackerRank](https://www.hackerrank.com/certificates/d42c1025f2bf)  
